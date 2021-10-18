@@ -1,3 +1,10 @@
+//
+//  FontManager.swift
+//
+//
+//  Created by Deepika on 18/10/21.
+//
+
 import UIKit
 
 public protocol FontStyle {
