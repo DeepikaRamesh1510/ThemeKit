@@ -39,7 +39,7 @@ public class FontManager: FontProviderProtocol {
 	
 	let fontProvider: FontProviderProtocol
 	
-	init(fontProvider: FontProviderProtocol) {
+	public init(fontProvider: FontProviderProtocol) {
 		self.fontProvider = fontProvider
 	}
 }
