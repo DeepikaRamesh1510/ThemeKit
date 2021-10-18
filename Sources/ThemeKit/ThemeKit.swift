@@ -59,7 +59,7 @@ public extension FontManager  {
 
 public struct Font: FontStyle {
 	public var name: String
-	init(name: String) {
+	public init(name: String) {
 		self.name = name
 	}
 }
